@@ -1,0 +1,17 @@
+{
+"description":"Site para servicos do Compelexo Escolar Nº 1237 ",
+"authors" : [
+    {
+        "name":"Afonso Aurélio",
+        "email": "aureliofabio16@gmail.com"
+    }
+],
+"autoload":{
+    "psr-4":{
+        "App\\":"app",
+        "Core\\":"core" 
+    }
+},
+"require":{}
+
+} 
